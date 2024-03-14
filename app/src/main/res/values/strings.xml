@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="logo">WorldSkills Bank</string>
+    <string name="banks">Отделения и банкоматы</string>
+    <string name="currency">Курсы валют</string>
+    <string name="date">11.03.2024</string>
+    <string name="usd">USD</string>
+    <string name="usd_val">90.0</string>
+    <string name="eur">EUR</string>
+    <string name="eur_val">100</string>
+    <string name="enter">Войти</string>
+
+    <string name="auth">Авторизация</string>
+    <string name="enterlog">Введите ваш логин и пароль</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+
+    <string name="street">Москва ул Вавилова д 1</string>
+    <string name="street2">Москва ул  Вторая д 2</string>
+    <string name="street3">Москва ул Третья д 3</string>
+    <string name="street4">Москва ул Четверка д 4</string>
+    <string name="atm">Банкомат </string>
+    <string name="otdelenie">Отделение</string>
+    <string name="workstatus">Работает</string>
+    <string name="hours">Часы работы</string>
+    <string name="data_hours">09-00-20:10</string>
+
+
+    <string name="RU">RUB</string>
+    <string name="RU_name">Русский рубль</string>
+    <string name="RU_buy">100</string>
+    <string name="RU_sell">90</string>
+
+    <string name="US">USD</string>
+    <string name="US_name">Американский доллар</string>
+    <string name="US_buy">1</string>
+    <string name="US_sell">1</string>
+
+    <string name="JP">YEN</string>
+    <string name="JP_name">Японская йена</string>
+    <string name="JP_buy">25</string>
+    <string name="JP_sell">3</string>
+
+    <string name="sell">Продажа</string>
+    <string name="buy">Покупка</string>
+
+
+</resources>
